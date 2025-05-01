@@ -10,3 +10,7 @@ It's affiliated with the **Prodigy Infotech Internship Program** as Task 2.
 - KMeans clustering
 - Elbow method & silhouette score analysis
 - Cluster visualization using seaborn
+
+## Dataset
+
+/kaggle/input/customer-segmentation-tutorial-in-python
